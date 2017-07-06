@@ -26,4 +26,4 @@
 ----
 ## Write-up
 
-![Write-up SVG image](writeup.svg)
+[View Image](writeup.svg)
