@@ -21,7 +21,7 @@
 > 
 > Let me clarify: **All 22 classes (excluding the entry point) get loaded and used in the VM process should the program be given the correct answer.** As such, all classes may (either directly or indirectly) communicate with each other in the process of validating the input. However, due to duplicate class names some references may be ambiguous when they are resolved, and that's when the directed graph comes to play. Just remember: What You See Is Not What You Get.
 > 
-> [Download link](http://example.com/)
+> [Download link](clique)
 
 ----
 ## Write-up
